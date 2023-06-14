@@ -1,6 +1,12 @@
 ### Run client and server 
-<b>yarn start</b>
+```bash
+ yarn start 
+```
 ### Run only server
-<b>yarn start:server</b>
+```bash
+ yarn start:server 
+```
 ### Run only client
-<b>yarn start:client</b>
+```bash
+ yarn start:client 
+```
